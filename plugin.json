@@ -1,0 +1,10 @@
+{
+    "name": "Catnesina",
+    "version": "0.0.1",
+    "description": "Description of catsec.",
+    "author_name": "Me",
+    "author_url": "https://mywebsite.me",
+    "plugin_url": "https://github.com/my_name/catsec",
+    "tags": "cat, template, example",
+    "thumb": "https://raw.githubusercontent.com/my_repo_path/catsec.png"
+}
