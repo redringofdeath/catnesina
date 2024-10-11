@@ -13,4 +13,4 @@ By delivering real-time information directly from official sources, Catnesina se
 
 ### Special Thanks
 A special thanks goes to Alessandro Spallina for his valuable insights, and to the Italian Ministry of Foreign Affairs and International Cooperation that, through the website ViaggiareSicuri, provides guidance and information to all the travellers. 
-[![MAECI]([https://www.viaggiaresicuri.it/assets/images/logoFarnesina.png)](https://)
+![MAECI](https://www.viaggiaresicuri.it/assets/images/logoFarnesina.png "MAECI")
