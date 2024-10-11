@@ -9,7 +9,7 @@ However, it may also accommodates travellers from other countries, offering reli
 By delivering real-time information directly from official sources, Catnesina serves as a reliable travel companion, offering peace of mind to those exploring the world.
 
 ## Usage
-
+Placeholder - work in progress
 
 ## Special Thanks
 A special thanks goes to Alessandro Spallina for his valuable insights, and to the Italian Ministry of Foreign Affairs and International Cooperation that, through the website ViaggiareSicuri, provides guidance and information to all the travellers. 
