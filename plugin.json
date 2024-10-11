@@ -1,0 +1,10 @@
+{
+    "name": "Catnesina",
+    "version": "1.0",
+    "description": "Your personal Travel Security Assistant! Thanks to the Italian Ministry of Foreign Affairs and International Cooperation.",
+    "author_name": "Romolo Pagnanelli",
+    "author_url": "https://www.linkedin.com/in/pagnanelli/",
+    "plugin_url": "https://github.com/redringofdeath/catnesina",
+    "tags": "Travel, Security, Assistant, Farnesina, MAECI, Foreign, Affairs",
+    "thumb": "https://raw.githubusercontent.com/redringofdeath/catnesina/main/img/catnesina.jpg"
+}
