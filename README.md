@@ -29,3 +29,12 @@ The assistant is further enhanced with a personalized language and context adapt
 A special thanks goes to [Alessandro Spallina](https://github.com/AlessandroSpallina) for his valuable insights, and to the [Italian Ministry of Foreign Affairs and International Cooperation](https://www.esteri.it/en/) that, through the website [ViaggiareSicuri](https://www.viaggiaresicuri.it/home), provides guidance and information to all travellers. 
 
 [![MAECI](https://www.viaggiaresicuri.it/assets/images/logoFarnesina.png "MAECI")](https://www.esteri.it/en/)
+
+
+## Disclaimer
+The autor cannot be held liable for any damage to persons or property that may arise, directly or indirectly, from information published on the ViaggiareSicuri website or, in general, provided by the plugin / LLM.
+The responsibilities associated with the decision to travel are outlined in Article 19 bis, paragraph 3, of Law No. 43 of April 17, 2015:
+«_It remains clear that the consequences of traveling abroad fall solely under the individual responsibility of those who decide to undertake or organize such journeys_».
+
+Therefore, it is essential that each citizen carefully assesses the situation in the country they intend to visit prior to traveling.
+Once the decision to travel has been responsibly made, it is advisable to remain vigilant and to act in a manner appropriate to the locations visited.”_
