@@ -21,10 +21,12 @@ In particular, documents are downloaded directly from the [ViaggiareSicuri](http
 Information validity is checked daily to ensure the latest updates are always available: this parameter can be configured, from 1 to 30 days of information retention.
 
 To optimize document management, the system offers automatic summarization of contents. 
+
 _(based on [Summarization](https://github.com/Furrmidable-Crew/ccat_summarization) plugin)_ 
 
 Lastly, the system integrates all three types of memory from the [Cheshire Cat](https://github.com/cheshire-cat-ai/core) - episodic, declarative, and procedural - each with configurable parameters.
 The assistant is further enhanced with a personalized language and context adaptation feature: it responds in a formal, business-oriented tone and automatically adjusts the language to that of the user, using memory functions to enrich interactions with relevant context and information.
+
 _(based on [C.A.T. Cat Advanced Tools](https://github.com/Furrmidable-Crew/cat_advanced_tool) plugin)_ 
 
 ## Special Thanks
