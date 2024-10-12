@@ -26,6 +26,6 @@ Lastly, the system integrates all three types of memory from the [Cheshire Cat](
 The assistant is further enhanced with a personalized language and context adaptation feature: it responds in a formal, business-oriented tone and automatically adjusts the language to that of the user, using memory functions to enrich interactions with relevant context and information _(based on [C.A.T. Cat Advanced Tools](https://github.com/Furrmidable-Crew/cat_advanced_tool) plugin)_.
 
 ## Special Thanks
-A special thanks goes to [Alessandro Spallina](https://github.com/AlessandroSpallina) for his valuable insights, and to the [Italian Ministry of Foreign Affairs and International Cooperation](https://www.esteri.it/en/) that, through the website [ViaggiareSicuri](https://www.viaggiaresicuri.it/home), provides guidance and information to all the travellers. 
+A special thanks goes to [Alessandro Spallina](https://github.com/AlessandroSpallina) for his valuable insights, and to the [Italian Ministry of Foreign Affairs and International Cooperation](https://www.esteri.it/en/) that, through the website [ViaggiareSicuri](https://www.viaggiaresicuri.it/home), provides guidance and information to all travellers. 
 
 [![MAECI](https://www.viaggiaresicuri.it/assets/images/logoFarnesina.png "MAECI")](https://www.esteri.it/en/)
