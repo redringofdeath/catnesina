@@ -18,6 +18,6 @@ By delivering real-time information directly from official sources, Catnesina se
 Placeholder - work in progress
 
 ## Special Thanks
-A special thanks goes to [Alessandro Spallina](https://github.com/AlessandroSpallina) for his valuable insights, and to the Italian Ministry of Foreign Affairs and International Cooperation that, through the website ViaggiareSicuri, provides guidance and information to all the travellers. 
+A special thanks goes to [Alessandro Spallina](https://github.com/AlessandroSpallina) for his valuable insights, and to the [Italian Ministry of Foreign Affairs and International Cooperation](https://www.esteri.it/en/) that, through the website [ViaggiareSicuri](https://www.viaggiaresicuri.it/home), provides guidance and information to all the travellers. 
 
-![MAECI](https://www.viaggiaresicuri.it/assets/images/logoFarnesina.png "MAECI")
+[![MAECI](https://www.viaggiaresicuri.it/assets/images/logoFarnesina.png "MAECI")](https://www.esteri.it/en/)
