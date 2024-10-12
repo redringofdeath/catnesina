@@ -1,8 +1,6 @@
 # Catnesina
 [![Awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=F4F4F5&style=for-the-badge&logo=cheshire_cat_black)](https://github.com/cheshire-cat-ai/awesome-plugins)
 
-![Catnesina](./catnesina.jpg)
-
 <img src="https://github.com/redringofdeath/catnesina/blob/eda20f8e6e1e75582ee7d355c944be3f9c560b33/catnesina.jpg" width="200">
 
 # Introduction
