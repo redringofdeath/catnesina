@@ -1,5 +1,5 @@
 # Catnesina
-[![Awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=F4F4F5&style=for-the-badge&logo=cheshire_cat_black)](https://github.com/cheshire-cat-ai/awesome-plugins))
+[![Awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=F4F4F5&style=for-the-badge&logo=cheshire_cat_black)](https://github.com/cheshire-cat-ai/awesome-plugins)
 
 ![Catnesina](./catnesina.jpg)
 
@@ -18,6 +18,6 @@ By delivering real-time information directly from official sources, Catnesina se
 Placeholder - work in progress
 
 ## Special Thanks
-A special thanks goes to Alessandro Spallina for his valuable insights, and to the Italian Ministry of Foreign Affairs and International Cooperation that, through the website ViaggiareSicuri, provides guidance and information to all the travellers. 
+A special thanks goes to [Alessandro Spallina](https://github.com/AlessandroSpallina) for his valuable insights, and to the Italian Ministry of Foreign Affairs and International Cooperation that, through the website ViaggiareSicuri, provides guidance and information to all the travellers. 
 
 ![MAECI](https://www.viaggiaresicuri.it/assets/images/logoFarnesina.png "MAECI")
