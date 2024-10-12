@@ -1,5 +1,5 @@
 # Catnesina
-![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=F4F4F5&style=for-the-badge&logo=cheshire_cat_black)
+![Catnesina](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=F4F4F5&style=for-the-badge&logo=cheshire_cat_black)
 
 # Introduction
 Catnesina is a virtual assistant designed to support travellers by providing essential and up-to-date information on security, safety and health risks for international destinations. 
