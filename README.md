@@ -23,7 +23,7 @@ Information validity is checked daily to ensure the latest updates are always av
 To optimize document management, the system offers automatic summarization of contents _(based on [Summarization](https://github.com/Furrmidable-Crew/ccat_summarization) plugin)_.
 
 Lastly, the system integrates all three types of memory from the [Cheshire Cat](https://github.com/cheshire-cat-ai/core) - episodic, declarative, and procedural - each with configurable parameters.
-The assistant is further enhanced with a personalized language and context adaptation feature: it responds in a formal, business-oriented tone and automatically adjusts the language to that of the user, using memory functions to enrich interactions with relevant context and information _(based on [C.A.T. Cat Advanced Tools](https://github.com/Furrmidable-Crew/cat_advanced_tool) plugin)_.
+The assistant is further enhanced with a personalized language and context adaptation feature: it responds in a formal, business-oriented tone and automatically adjusts the language to that of the user, using memory functions to enrich interactions with relevant context and information _(based on [C.A.T. Cat Advanced Tools](https://github.com/Furrmidable-Crew/cat_advanced_tools) plugin)_.
 
 ## Special Thanks
 A special thanks goes to [Alessandro Spallina](https://github.com/AlessandroSpallina) for his valuable insights, and to the [Italian Ministry of Foreign Affairs and International Cooperation](https://www.esteri.it/en/) that, through the website [ViaggiareSicuri](https://www.viaggiaresicuri.it/home), provides guidance and information to all travellers. 
