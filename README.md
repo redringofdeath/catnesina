@@ -3,6 +3,7 @@
 
 ![Catnesina](./catnesina.jpg)
 
+<img src="https://github.com/redringofdeath/catnesina/blob/eda20f8e6e1e75582ee7d355c944be3f9c560b33/catnesina.jpg" width="200">
 
 # Introduction
 Catnesina is a virtual assistant designed to support travellers by providing essential and up-to-date information on security, safety and health risks for international destinations. 
