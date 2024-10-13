@@ -37,4 +37,4 @@ The responsibilities associated with the decision to travel are outlined in Arti
 «_It remains clear that the consequences of traveling abroad fall solely under the individual responsibility of those who decide to undertake or organize such journeys_».
 
 Therefore, it is essential that each citizen carefully assesses the situation in the country they intend to visit prior to traveling.
-Once the decision to travel has been responsibly made, it is advisable to remain vigilant and to act in a manner appropriate to the locations visited.”_
+Once the decision to travel has been responsibly made, it is advisable to remain vigilant and to act in a manner appropriate to the locations visited.”
