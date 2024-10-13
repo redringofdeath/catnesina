@@ -36,5 +36,5 @@ The autor cannot be held liable for any damage to persons or property that may a
 The responsibilities associated with the decision to travel are outlined in Article 19 bis, paragraph 3, of Law No. 43 of April 17, 2015:
 «_It remains clear that the consequences of traveling abroad fall solely under the individual responsibility of those who decide to undertake or organize such journeys_».
 
-Therefore, it is essential that each citizen carefully assesses the situation in the country they intend to visit prior to traveling.
-Once the decision to travel has been responsibly made, it is advisable to remain vigilant and to act in a manner appropriate to the locations visited.”
+Therefore, it is essential that each traveller carefully assesses the situation in the country they intend to visit prior to traveling.
+Once the decision to travel has been responsibly made, it is advisable to remain vigilant and to act in a manner appropriate to the locations visited.
